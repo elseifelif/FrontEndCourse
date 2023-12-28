@@ -1,0 +1,37 @@
+body {
+	background-color: #E8F3D6;
+	color: rgb(65, 62, 62);
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #FAAB78;
+	color: #FDF4F5;
+	padding: 20px;
+	text-align: center;
+}
+
+section {
+	background-color: #C0DBEA;
+	border: 1px solid #86c8ec;
+	margin: 10px;
+	padding: 20px;
+}
+
+#section2 {
+	background-color: #e0e7ec;
+	border: 1px solid #86c8ec;
+	margin: 10px;
+	padding: 20px;
+}
+
+footer {
+    background-color: #FAAB78;
+    width: 100%;
+    color: #FDF4F5;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
